@@ -1,0 +1,15 @@
+Original Binary Number: 10110110
+
+Rotate Left Without Carry (ROL)
+Original number: 10110110
+After rotation 1 : 01101101
+After rotation 2 : 11011010
+Final ROL Result: 11011010
+
+Rotate Left With Carry (RCL)
+Original number: 10110110
+Initial Carry: 0
+After rotation 1 : 01101100 Carry: 1
+After rotation 2 : 11011001 Carry: 0
+Final RCL Result: 11011001
+Final Carry: 0
