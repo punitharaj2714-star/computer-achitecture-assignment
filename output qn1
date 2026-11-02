@@ -1,0 +1,13 @@
+Expression (a): 34 + (+27)
+Operand 1: 00100010
+Operand 2: 00011011
+Result: 00111101
+Decimal Result: 61
+Overflow: False
+
+Expression (b): (-34) - (-27)
+Operand 1: 11011110
+Operand 2: 11100101
+Result: 11111001
+Decimal Result: -7
+Overflow: False
